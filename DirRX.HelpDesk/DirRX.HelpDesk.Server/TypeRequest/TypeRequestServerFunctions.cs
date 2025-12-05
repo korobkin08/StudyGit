@@ -9,6 +9,6 @@ namespace DirRX.HelpDesk.Server
 {
   partial class TypeRequestFunctions
   {
-
+//
   }
 }
